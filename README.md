@@ -11,12 +11,12 @@
     <header>
        <h1>Bienvenido</h1>
     </header>
-    <p>
-       cout<<👋 Hi, I’m ULISES;\n
-       echo "Es un placer que pases por aqui!";
-       console.log("EL repositorio esta a tu disposicion");
-      <p>Espero sea de tu agrado<p>;
-       print "Saludos!!",
+   
+    <p>cout<<👋 Hi, I’m ULISES;<p>
+    <p>echo "Es un placer que pases por aqui!";<p>
+    <p>console.log("EL repositorio esta a tu disposicion");<p>
+    <p>"<p>Espero sea de tu agrado"<p>";<p>
+    <p> print "Saludos!!",<p>
     </p>
  </body>
 </html>
