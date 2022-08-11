@@ -3,6 +3,7 @@
 	<div>Programmer</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
+	<a href="https://www.linkedin.com/in/rcoaquira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://github.com/ulisesrcm"><img src="https://img.shields.io/github/stars/ulisesrcm?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>     
 	<a href="mailto:ulisesrcm001@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-ulisesrcm001@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
 	<br />
