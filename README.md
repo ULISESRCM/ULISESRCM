@@ -22,6 +22,5 @@
 	<summary>Projects</summary>
 	<ul>
 		<li><a href="https://ulisesrcm.github.io/Porfolio.github.io">portdolio en proceso</a> -  portfolio</li>
-		
 	</ul>
 </details>
