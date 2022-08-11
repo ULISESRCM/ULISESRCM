@@ -8,7 +8,7 @@
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<br />
-	<a href="https://github.com/mathletedev"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://github.com/ulisesrcm"><img src="https://img.shields.io/github/stars/ulisesrcm?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:nealwang.sh@pm.me/"><img src="https://img.shields.io/badge/EMAIL-nealwang.sh@pm.me-b4befe?style=flat&logo=protonmail" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
 	<a href="https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q"><img src="https://img.shields.io/badge/YT-MathleteDev-eba0ac?style=flat&logo=youtube" /></a>
